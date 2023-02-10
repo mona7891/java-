@@ -1,8 +1,8 @@
 /*Bit Manipulation -->binary(01)
 //                 -->low state - 0 && High state 1 (current flow)
 //1.Git-bit (check Zero OR NON_Zero)
-//2.set-bit (1 bana dena )
-//3.clear-bit (0 bana dena )
+//2.set-bit 
+//3.clear-bit 
 //4.Update-bit (0 - 1 && 1 - 0)
 
 //1.Get-Bit
